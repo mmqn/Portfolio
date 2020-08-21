@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.da1914b0.chunk.css",
+    "main.js": "/portfolio/static/js/main.f10c6410.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f10c6410.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.6c885814.chunk.js": "/portfolio/static/js/2.6c885814.chunk.js",
+    "static/js/2.6c885814.chunk.js.map": "/portfolio/static/js/2.6c885814.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7a89ec9a9f60f6736bd7de83b5df2c15.js": "/portfolio/precache-manifest.7a89ec9a9f60f6736bd7de83b5df2c15.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.da1914b0.chunk.css.map": "/portfolio/static/css/main.da1914b0.chunk.css.map",
+    "static/js/2.6c885814.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6c885814.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/IBMPlexSans-Regular.177a43ac.otf",
+    "static/media/chevron_down.svg": "/portfolio/static/media/chevron_down.288e2aae.svg",
+    "static/media/logo_dark.svg": "/portfolio/static/media/logo_dark.e9ae414a.svg",
+    "static/media/logo_light.svg": "/portfolio/static/media/logo_light.ebed6ab3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.6c885814.chunk.js",
+    "static/css/main.da1914b0.chunk.css",
+    "static/js/main.f10c6410.chunk.js"
+  ]
+}
