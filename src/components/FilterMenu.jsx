@@ -13,6 +13,7 @@ const FilterMenu = ({ allFilters, activeFilters, handleFiltering }) => {
       <button
         type='button'
         className={`internal-link ${isFlashing ? 'flash' : ''}`}
+        style={{ padding: '1px 6px 1px 0px', borderRadius: '8px' }}
         onAnimationEnd={() => setIsFlashing(false)}
       >
         Filter
