@@ -12,12 +12,16 @@ h2 {
 	color: #242424;
 }
 
-main {
-	scrollbar-color: #d5d5d5 #fafafa;
+img {
+	color: #ff8e65;
 }
 
 aside {
 	background-color: #f0f0f0;
+}
+
+main {
+	scrollbar-color: #d5d5d5 #fafafa;
 }
 
 nav {
@@ -32,10 +36,6 @@ nav {
 .action-button {
 	color: #242424;
 	background-color: #f0f0f0;
-}
-
-.action-button:active {
-	background-color: #ff8e65;
 }
 
 .internal-link {
@@ -77,8 +77,8 @@ article a:before {
 		padding-left: 0px;
   }
   20% {
-		color: #003192;
-		border: 1px solid #003192;
+		color: #ff8e65;
+		border: 1px solid #ff8e65;
 		padding-left: 6px;
   }
   40% {
@@ -87,8 +87,8 @@ article a:before {
 		padding-left: 6px;
   }
   60% {
-		color: #003192;
-		border: 1px solid #003192;
+		color: #ff8e65;
+		border: 1px solid #ff8e65;
 		padding-left: 6px;
   }
   80% {
@@ -190,12 +190,16 @@ h2 {
 	color: #e3e3e3;
 }
 
-main {
-	scrollbar-color: #333333 #1a1a1a;
+img {
+	color: #ff7f50;
 }
 
 aside {
 	background-color: #2f2f2f;
+}
+
+main {
+	scrollbar-color: #333333 #1a1a1a;
 }
 
 nav {
@@ -255,8 +259,8 @@ article a:before {
 		padding-left: 0px;
   }
   20% {
-		color: #6fa0ff;
-		border: 1px solid #6fa0ff;
+		color: #ff7f50;
+		border: 1px solid #ff7f50;
 		padding-left: 6px;
   }
   40% {
@@ -265,8 +269,8 @@ article a:before {
 		padding-left: 6px;
   }
   60% {
-		color: #6fa0ff;
-		border: 1px solid #6fa0ff;
+		color: #ff7f50;
+		border: 1px solid #ff7f50;
 		padding-left: 6px;
   }
   80% {
